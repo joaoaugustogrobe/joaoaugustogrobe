@@ -1,7 +1,7 @@
 # About Me
 - 🎓 Bachelor's Degree in Computer Science from UTFPR, where I specialized in Web Development and Automation;
-- 💼 Mid-level Front-End Developer with a focus on Vue.js framework, HTML, CSS, JS, and Node.js;
-- 🌎 Rocking the remote work life and loving it for the past 3 years;
+- 💼 Mid-level Front-End Developer with a focus on Vue.js framework, Node.js, and recently, working a lot with LLMs, OpenAI, Embeddings and Python;
+- 🌎 Rocking the remote work life and loving it for the past 4 years;
 - 🧪 Passionate Problem Solver - R&D Department at FileCloud;
 - 💬 Committed to becoming more active in Open Source and Dev communities;
 - 🇧🇷 Living in Brazil.
